@@ -1,0 +1,17 @@
+    {'x', 'o', 'x'}, 
+    {'x', 'x', 'o'}, 
+    {'o', 'o', 'x'}
+    Saida:
+    O jogador 1 venceu!
+
+    {'x', 'o', 'x'},
+    {'x', 'x', 'o'}, 
+    {'o', 'o', 'o'}
+    Saida:
+    O jogador 2 venceu!
+
+    {'x', 'o', 'x'},
+    {'x', 'x', 'o'}, 
+    {'o', 'x', 'o'}
+    Saida:
+    Deu velha!
